@@ -9,6 +9,7 @@
 # Local tooling and generated notebook state
 /chromedriver-win64/
 .ipynb_checkpoints/
+.playwright-cli/
 __pycache__/
 *.py[cod]
 
