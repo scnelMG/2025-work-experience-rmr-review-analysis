@@ -1,0 +1,7 @@
+beautifulsoup4
+konlpy
+matplotlib
+numpy
+pandas
+selenium
+wordcloud
