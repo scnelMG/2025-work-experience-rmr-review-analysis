@@ -16,6 +16,7 @@ __pycache__/
 # Documents must be reviewed and explicitly sanitized before public release.
 *.hwp
 *.pdf
+!docs/presentation/rmr-final-presentation.pdf
 *.pptx
 *.xlsx
 
