@@ -1,6 +1,6 @@
 # 레스토랑 간편식(RMR) 리뷰 기반 한식 맛 평가 기준 수립
 
-<p align="center">2025 미래내일 일경험 · 4인 팀 프로젝트 · 공개 포트폴리오</p>
+<p align="center">2025.05.14–07.11 · 미래내일 일경험 · 웨이브앤바이브 · 4인 팀 프로젝트 · 공개 포트폴리오</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white" alt="Python 3.9 이상">
